@@ -31,9 +31,9 @@ Core belief: **AI assists thinking. You own the science.**
 
 ### 📫 Reach me
 
-[![Email](https://img.shields.io/badge/Email-tuyen.tran97%40gmail.com-blue?style=flat&logo=gmail)](mailto:tuyen.tran97@gmail.com)
+[![Email](https://img.shields.io/badge/Email-v.tuyent%40vinmec.com-blue?style=flat&logo=gmail)](mailto:v.tuyent@vinmec.com)
 [![Blog](https://img.shields.io/badge/Blog-aiforacademic.world-green?style=flat&logo=wordpress)](https://aiforacademic.world)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2682--4578-A6CE39?style=flat&logo=orcid)](https://orcid.org/0009-0003-2682-4578)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tuyentran--md-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuyentran-md/)
 
 ---
 
