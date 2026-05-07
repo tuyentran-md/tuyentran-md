@@ -17,7 +17,6 @@ I study how AI changes the way we do science — not just faster, but *structura
 | [epistemic-drift](https://github.com/tuyentran-md/epistemic-drift) | Taxonomy of how AI corrupts scientific reasoning — companion to the A-series papers |
 | [citecheck](https://github.com/tuyentran-md/cite_checker) | Verify manuscript citations against PubMed, CrossRef, OpenAlex — trust but verify |
 | [sr-pipeline](https://github.com/tuyentran-md/sr-pipeline) | End-to-end systematic review automation: dedup + AI screening + PRISMA — 68 tests ✓ |
-| [ai-drift-empirical](https://github.com/tuyentran-md/ai-drift-empirical) | Empirical work behind the epistemic-drift papers |
 
 ### 📝 Writing
 
