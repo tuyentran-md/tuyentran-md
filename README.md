@@ -1,6 +1,6 @@
 ## Hi, I'm Tuyen 👋
 
-**Pediatric & plastic surgeon** by training. **Meta-researcher** by conviction.
+**Pediatric surgeon** by training. **Meta-researcher** by conviction.
 
 I study how AI changes the way we do science — not just faster, but *structurally differently*. My work sits at the intersection of clinical research, AI systems, and philosophy of science.
 
@@ -20,15 +20,15 @@ I study how AI changes the way we do science — not just faster, but *structura
 
 ### 📝 Writing
 
-I write about responsible AI use in academic research at **[aiforacademic.world](https://aiforacademic.world)** — practical workflows, not hype.
+I write about medical research and how to integrate AI in academic works at **https://www.tuyentranmd.com/**.  
 
 Core belief: **AI assists thinking. You own the science.**
 
 ### 🧭 Research direction
 
-- **Accepted:** Diagnostic Imaging of Neonatal Anorectal Malformations — *Journal of Pediatric Surgery* (in press)
-- **Under review:** "Artificial Intelligence and the Epistemic Drift of Scientific Research" — defining a new class of epistemic failure in AI-assisted research (*Medicine, Health Care and Philosophy*)
-- **In flight:** OPERA framework — conceptual paper (target: *J Clin Epidemiol*) + empirical companion (medRxiv preprint, κ=0.965 across 4 paired surgical case studies)
+- **Accepted:** Neonatal Anorectal Malformations — *Journal of Pediatric Surgery* (in press)
+- **Under review:** "Artificial Intelligence and the Epistemic Drift of Scientific Research" — defining a new class of epistemic failure in AI-assisted research
+- **In flight:** OPERA framework — conceptual paper + empirical companion
 - **In flight:** Constitutional framework for AI in science — why research needs pre-commitment constraints, not just post-hoc guidelines
 
 ### 📫 Reach me
